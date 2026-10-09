@@ -1,47 +1,48 @@
-Olá! Eu sou a Natielle 💙
+<div align="center">
 
-Desenvolvedora Front-end em formação | Front-end Developer in Progress
+# 💙 Natielle Pereira
 
-Bem-vindo(a) ao meu GitHub!
+### FRONT-END DEVELOPER IN PROGRESS
 
-Estou iniciando minha jornada na tecnologia, explorando o desenvolvimento Front-end e aprendendo a criar interfaces modernas, funcionais e acessíveis.
+*Aprendendo, criando e evoluindo.*
 
-I'm beginning my journey in Front-end development, learning to build modern and user-friendly web interfaces.
+<br>
 
----
+<img src="https://img.shields.io/badge/HTML5-Em%20aprendizado-EA6B3D?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-Em%20aprendizado-3978C5?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-Próximo%20passo-E5C453?style=flat-square&logo=javascript&logoColor=222222" />
 
-✨ Sobre mim | About Me
-
-- 💻 Explorando o universo do desenvolvimento web.
-- 📚 Aprendendo por meio de estudos e projetos práticos.
-- 🎨 Interessada em interfaces, design e experiência do usuário.
-- 🚀 Construindo meu portfólio, um projeto de cada vez.
-
-🛠️ Tecnologias | Technologies
-
-Em aprendizado | Currently learning
-
-- HTML
-- CSS
-
-Próximos passos | Next steps
-
-- JavaScript
-- Design responsivo
-- Git e GitHub
-
-📂 Projetos | Projects
-
-Este espaço reúne meus estudos, experimentos e projetos desenvolvidos durante minha jornada de aprendizado.
-
-This space showcases my learning journey and projects.
-
-🎯 Meu objetivo | My goal
-
-Transformar conhecimento em prática, evoluir continuamente e desenvolver experiências digitais úteis e acessíveis.
-
-Learn, build, and grow — one project at a time.
+</div>
 
 ---
 
-💙 Obrigada por visitar meu perfil!
+### ✨ Sobre mim | About me
+
+💻 Explorando o desenvolvimento web  
+🎨 Interessada em design e interfaces  
+📚 Aprendendo com projetos práticos  
+🚀 Construindo meu portfólio
+
+---
+
+### 🧰 Tecnologias | Tech stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,git,github,vscode&theme=light" />
+
+</div>
+
+---
+
+### 📂 Meus projetos | My projects
+
+*Em breve: novos projetos e experiências de aprendizado.*
+
+---
+
+<div align="center">
+
+**Aprender • Criar • Evoluir** 💙
+
+</div>
