@@ -2,7 +2,7 @@
 
 # 💙 Natielle Pereira
 
-### FRONT-END DEVELOPER IN PROGRESS
+### FRONT-END DEVELOPERA IN PROGRESS
 
 *Aprendendo, criando e evoluindo.*
 
